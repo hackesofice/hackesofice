@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <iframe src="https://lottie.host/your-animation-link.json" width="100%" height="300" frameBorder="0" allowFullScreen></iframe>
+  <iframe src="https://lottie.host/3f2ff4c0-2e3e-4b2d-bf1c-92f1f586f539/2SkqghLoCz.json" width="100%" height="300" frameBorder="0" allowFullScreen></iframe>
 </p>
 
 ## My GitHub Stats
