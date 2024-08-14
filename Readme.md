@@ -1,31 +1,31 @@
 # Welcome to My GitHub Profile!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Welcome+to+My+GitHub+Profile!;I+am+hackesofice;A+Passionate+Developer!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Welcome+to+My+GitHub+Profile!;I+am+hackesofice;A+Passionate+Developer+and+Open+Source+Enthusiast!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://lottiefiles.com/path/to/your/lottie/animation.json" width="800" height="400">
+  <iframe src="https://lottie.host/your-animation-link.json" width="100%" height="300" frameBorder="0" allowFullScreen></iframe>
 </p>
 
 ## My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hackesofice&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hackesofice&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackesofice&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hackesofice&theme=dracula&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hackesofice&theme=radical&margin-w=15" alt="GitHub Trophies" />
 </p>
 
-## My Contribution Streak
+## Contribution Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hackesofice&theme=radical" alt="GitHub Streak" />
 </p>
 
-## Recent GitHub Activity
+## Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -62,11 +62,17 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hackesofice&repo=another-great-project&theme=radical)](https://github.com/hackesofice/another-great-project)
 
+## My Contribution Graph
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=hackesofice&theme=dracula" alt="Contribution Graph" />
+</p>
+
 ## Inspirational Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## Let's Connect!
+## Let’s Connect!
 
 - 💬 [Reach out to me on LinkedIn](https://linkedin.com/in/hackesofice)
 - ✨ [Check out my repositories](https://github.com/hackesofice?tab=repositories)
