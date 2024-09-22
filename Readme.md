@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt8zDaW5NfuP8jG/giphy.gif" alt="Animated Banner" width="100%" height="300" />
+  <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=6c09b952vdxp379s5migchflsj7h6fi79yyc8rvsvzyfi84o&ep=v1_internal_gif_by_id&rid=giphy.gif" alt="Animated Banner" width="100%" height="300" />
 </p>
 
 ## My GitHub Stats
