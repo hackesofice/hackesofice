@@ -45,10 +45,9 @@
 ## Featured Projects
 
 ### Project 1: Awesome Project
-<p align="center">
-  <img src="https://media.giphy.com/media/YOUR-GIF-ID/giphy.gif" alt="Project Demo" width="500" height="300" />
-</p>
-**Description**: This project does amazing things using cool technology.
+![](/YouTube-Downloader.gif)
+
+**Description**: This Project downloads audio and video as per requirement from YouTube Directly to system storage additionally its moves it to `Termux-Music` folder for simplicity.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hackesofice&repo=awesome-project&theme=radical)](https://github.com/hackesofice/awesome-project)
 
