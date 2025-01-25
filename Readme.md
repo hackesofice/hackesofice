@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Welcome+to+My+GitHub+Profile!;I+am+hackesofice;A+Passionate+Developer+and+Open+Source+Enthusiast!" alt="Typing SVG" />
 </p>
 
-![https://www.youtube.com/@MRINDIANHELPER_HACKER](/programmer-animat.gif)
+[![programming gif](/programmer-animat.gif)](https://www.youtube.com/@MRINDIANHELPER_HACKER)
 
 ## My GitHub Stats
 
@@ -45,7 +45,7 @@
 ## Featured Projects
 
 ### Project 1: Awesome Project
-![https://github.com/hackesofice/YouTube-Downloader.git](/YouTube-Downloader.gif)
+[![YouTube-Dowunload gif](/YouTube-Downloader.gif)](https://github.com/hackesofice/YouTube-Downloader.git)
 
 **Description**: This Project downloads audio and video as per requirement from YouTube Directly to system storage additionally its moves it to `Termux-Music` folder for simplicity.
 
