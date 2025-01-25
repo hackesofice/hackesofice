@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Welcome+to+My+GitHub+Profile!;I+am+hackesofice;A+Passionate+Developer+and+Open+Source+Enthusiast!" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=6c09b952vdxp379s5migchflsj7h6fi79yyc8rvsvzyfi84o&ep=v1_internal_gif_by_id&rid=giphy.gif" alt="Animated Banner" width="100%" height="300" />
-</p>
+![](/programmer-animat.gif)
 
 ## My GitHub Stats
 
