@@ -45,7 +45,7 @@
 ## Featured Projects
 
 ### Project 1: Awesome Project
-![](/YouTube-Downloader.gif)
+![https://github.com/hackesofice/YouTube-Downloader.git](/YouTube-Downloader.gif)
 
 **Description**: This Project downloads audio and video as per requirement from YouTube Directly to system storage additionally its moves it to `Termux-Music` folder for simplicity.
 
